@@ -1,0 +1,19 @@
+[
+    {
+        "numeSpacecraft": "Venus 14",
+        "vitezaMax": "2500",
+        "masa": "350",
+        "astronauts": [
+            {
+                "key": "astronaut003",
+                "numeAstronaut": "Marinescu Denisa",
+                "rol": "COMMANDER"
+            },
+            {
+                "key": "astronaut004",
+                "numeAstronaut": "Nita Anamaria",
+                "rol": "PILOT"
+            }
+        ]
+    }
+]
